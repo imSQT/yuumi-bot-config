@@ -1,0 +1,45 @@
+lol-audio:
+    data:
+        ambientSfxEnabled: false
+        banChampVoEnabled: false
+        masterVolume: 14
+        musicEnabled: false
+        pickChampVoEnabled: false
+    schemaVersion: 5
+lol-clash:
+    data:
+        simpleStateFlagIds:
+        - "registration_open_tournament_4283"
+        - "lock_in_open_tournament_4283_phase_4463"
+        - "registration_open_tournament_4403"
+        - "lock_in_open_tournament_4403_phase_4583"
+    schemaVersion: 1
+lol-home:
+    data:
+        useTFTOverride: false
+    schemaVersion: 0
+lol-parties:
+    data:
+        permanentHideAutofillModal: true
+    schemaVersion: 1
+lol-premade-voice:
+    data:
+        currentCaptureDeviceHandle: "Default System Device"
+        inputVolume: 50
+        vadSensitivity: 65
+    schemaVersion: 1
+lol-replays:
+    data:
+        dontShowEogUsageTip: true
+    schemaVersion: 1
+lol-user-experience:
+    data:
+        hasBeenPromptedForPotatoMode: true
+        lastKnownMachineSpec: 5
+        potatoModeEnabled: true
+        unloadLeagueClientUx: "always"
+    schemaVersion: 3
+video:
+    data:
+        ZoomScale: 0.800000
+    schemaVersion: 1
