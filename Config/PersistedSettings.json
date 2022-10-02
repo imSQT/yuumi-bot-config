@@ -731,7 +731,7 @@
                         },
                         {
                             "name": "evtPlayerHoldPosition",
-                            "value": "[j]"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtPlayerMoveClick",
@@ -743,19 +743,19 @@
                         },
                         {
                             "name": "evtPlayerPingComeHere",
-                            "value": "[<Unbound>]"
+                            "value": "[l]"
                         },
                         {
                             "name": "evtPlayerPingMIA",
-                            "value": "[<Unbound>]"
+                            "value": "[k]"
                         },
                         {
                             "name": "evtPlayerPingOMW",
-                            "value": "[<Unbound>]"
+                            "value": "[j]"
                         },
                         {
                             "name": "evtPlayerPingRadialDanger",
-                            "value": "[<Unbound>]"
+                            "value": "[Semicolon]"
                         },
                         {
                             "name": "evtPlayerStopPosition",

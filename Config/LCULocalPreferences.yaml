@@ -13,6 +13,8 @@ lol-clash:
         - "lock_in_open_tournament_4283_phase_4463"
         - "registration_open_tournament_4403"
         - "lock_in_open_tournament_4403_phase_4583"
+        - "registration_open_tournament_4521"
+        - "registration_open_tournament_4541"
     schemaVersion: 1
 lol-home:
     data:
