@@ -9,12 +9,13 @@ lol-audio:
 lol-clash:
     data:
         simpleStateFlagIds:
-        - "registration_open_tournament_4283"
         - "lock_in_open_tournament_4283_phase_4463"
+        - "registration_open_tournament_4283"
         - "registration_open_tournament_4403"
         - "lock_in_open_tournament_4403_phase_4583"
         - "registration_open_tournament_4521"
         - "registration_open_tournament_4541"
+        - "lock_in_open_tournament_4541_phase_4721"
     schemaVersion: 1
 lol-home:
     data:
